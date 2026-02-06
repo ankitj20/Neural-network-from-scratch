@@ -1,0 +1,1 @@
+In this project, I implemented a neural network from scratch using Python and NumPy only, I also used nesterov accelerated gradient descent for optimization and L2 regularization to improve model. This neural network was tested on MNIST dataset, where it performed with 90% accuracy.
